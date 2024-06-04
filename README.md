@@ -6,4 +6,4 @@ as you can see there's nothing here<br/><br/>
 📫 Contact me with → emotion1998k@gmail.com<br/><br/>
 
 My Stacks<br/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AWS&logoColor=white" /> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=white"/> 
