@@ -1,5 +1,4 @@
 ## 🙇‍♂️Thank you for visiting this shabby place🙇‍♂️<br/>
-as you can see there's nothing here<br/><br/>
 
 🌱 I’m learning about Cloud Computing<br/>
 ☁️ Preparing to be a Cloud Engineer<br/>
