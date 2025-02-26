@@ -1,7 +1,7 @@
 ## 🙇‍♂️Thank you for visiting this shabby place🙇‍♂️<br/><br/>
 
-🌱 I’m learning about Cloud Computing<br/>
-☁️ Preparing to be a Cloud Engineer<br/>
+☁️ Interested in Cloud Computing<br/>
+🌱 Associate Cloud Engineer<br/>
 📫 Contact me with → emotion1998k@gmail.com<br/><br/>
 
 My Stacks<br/>
