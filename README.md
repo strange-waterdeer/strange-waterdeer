@@ -1,7 +1,6 @@
 ## 🙇‍♂️Thank you for visiting this shabby place🙇‍♂️<br/><br/>
 
-☁️ Interested in Cloud Computing<br/>
-🌱 Associate Cloud Engineer<br/>
+🌱 Cloud Engineer<br/>
 
 My Stacks<br/>
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
