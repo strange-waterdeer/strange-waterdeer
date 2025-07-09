@@ -1,4 +1,4 @@
-## 🙇‍♂️Thank you for visiting this shabby place🙇‍♂️<br/><br/>
+## 👍<br/><br/>
 
 🌱 Cloud Engineer<br/>
 
